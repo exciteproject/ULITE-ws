@@ -6,12 +6,7 @@ Understanding literature references is crucial for the process of maintaining ac
 
 With the growing number of publications and academic full texts, curating databases of literature manually becomes impossible. By automatic extraction and parsing of references we release the research community from this burden and create different opportunities for deeper analysis of literature. One aspect of this is understanding of publication history: how authors influence each other, which institutions are involved in certain fields and topics and so on. One way to achieve this is to build a reference graph using the citation information inside the papers. If such a system exists, one can easily access information about further work of a particular author on the topic as well as related work, location of relevant datasets and which other projects the institution is pursuing. 
 
-It is worth mentioning that while in the field of Computer Science and some other domains multiple initiatives and infrastructures for automatic processing of scientific literature exist (Semantic Scholar[^1], Google Scholar[^2], AMiner[^], CiteSeerX[^4], etc.), for many other fields the situation is drastically different. Social sciences, law, and history (to name a few) scholars often have to rely on fragmented data sources of full-text documents to navigate their fields.
-
-[^1]: https://www.semanticscholar.org
-[^2]: https://scholar.google.com
-[^3]: https://www.aminer.org
-[^4]: https://citeseerx.ist.psu.edu
+It is worth mentioning that while in the field of Computer Science and some other domains multiple initiatives and infrastructures for automatic processing of scientific literature exist ([Semantic Scholar](https://www.semanticscholar.org), [Google Scholar](https://scholar.google.com), [AMiner](https://www.aminer.org), [CiteSeerX](https://citeseerx.ist.psu.edu), etc.), for many other fields the situation is drastically different. Social sciences, law, and history (to name a few) scholars often have to rely on fragmented data sources of full-text documents to navigate their fields.
 
 ## Call for papers
 
