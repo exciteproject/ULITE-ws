@@ -8,6 +8,14 @@ With the growing number of publications and academic full texts, curating databa
 
 It is worth mentioning that while in the field of Computer Science and some other domains multiple initiatives and infrastructures for automatic processing of scientific literature exist ([Semantic Scholar](https://www.semanticscholar.org), [Google Scholar](https://scholar.google.com), [AMiner](https://www.aminer.org), [CiteSeerX](https://citeseerx.ist.psu.edu), etc.), for many other fields the situation is drastically different. Social sciences, law, and history (to name a few) scholars often have to rely on fragmented data sources of full-text documents to navigate their fields.
 
+## Peer Review Progress and Workshop Format
+
+Our peer review process will be supported by Easychair. Each submission is assigned to 2 to 3 reviewers, preferably at least one expert in Bibliometrics and one expert in NLP or Information Extraction. The programme committee will consist of peer reviewers from all participating communities. Accepted papers are either long papers (15-minute talks) or short papers (5-minute talks). 
+
+The workshop is planned to last half a day and will include a keynote, invited papers, paper presentations and a closing panel discussion on the needs of the different stakeholders involved in the field of reference understanding. The expected number of participants is approx. 40 people and we plan the event as an on-site event. If the pandemic situation still holds we will switch to an online format (Nunes et al., 2020).
+A typical seminar-style room with a projector for 30-50 delegates would be required. A/V capacities would be desirable to potentially invite speakers to give an online presentation. For the on-site poster session, we would require a small number of poster boards. The workshop would follow the general JCDL format (hybrid, in-person or online).
+
+
 ## Call for papers
 
 ### Motivation
@@ -48,14 +56,6 @@ The target audience of the workshop are researchers and practitioners, junior an
 
 We particularly welcome submissions (research paper and technical contributions like) that address the topics for underrepresented domains such as, references in languages other than English and from fields other than Computer Science.
 
-
-### Peer Review Progress and Workshop Format
-
-Our peer review process will be supported by Easychair. Each submission is assigned to 2 to 3 reviewers, preferably at least one expert in Bibliometrics and one expert in NLP or Information Extraction. The programme committee will consist of peer reviewers from all participating communities. Accepted papers are either long papers (15-minute talks) or short papers (5-minute talks). 
-
-The workshop is planned to last half a day and will include a keynote, invited papers, paper presentations and a closing panel discussion on the needs of the different stakeholders involved in the field of reference understanding. The expected number of participants is approx. 40 people and we plan the event as an on-site event. If the pandemic situation still holds we will switch to an online format (Nunes et al., 2020).
-A typical seminar-style room with a projector for 30-50 delegates would be required. A/V capacities would be desirable to potentially invite speakers to give an online presentation. For the on-site poster session, we would require a small number of poster boards. The workshop would follow the general JCDL format (hybrid, in-person or online).
-
 ### Outcome
 
 Some of the expected outcomes of the workshop include:
@@ -64,17 +64,18 @@ Some of the expected outcomes of the workshop include:
   - Identification of weaknesses of current approaches (especially when generalized to new domains)
   - Workshop Proceedings are planned to be published with [CEUR](http://ceur-ws.org/)
 
-### Previous related workshops
-
-  - EXCITE Workshop 2017: “[Challenges in Extracting and Managing References](https://excite.informatik.uni-stuttgart.de/misc/workshop2017.html)”: community meeting/workshop during our precursor project EXCITE held in Cologne with approx. 30 on-site and remote experts. Organizers: Philipp Mayr & Steffen Staab
-  - Workshop on [Open Citations 2018](https://workshop-oc.github.io/2018/index.html). First Workshop on Open Citations held in Bologna, Italy with approx. 90 on-site participants. Organizers: Silvio Peroni, David Shotton, Philipp Mayr, Steffen Staab et al.
-  - Workshop on Open Citations And Open Scholarly Metadata 2020 [(Online event)](https://workshop-oc.github.io/). Second Workshop on Workshop On Open Citations And Open Scholarly Metadata held online in September 2020 with >100 on-line participants. Organizers: Silvio Peroni, David Shotton, Philipp Mayr, Steffen Staab et al.
-
 ## Keynotes and invited speakers
 
   1. Silvio Peroni (accepted). Silvio Peroni holds a Ph.D. degree in Computer Science and he is an Associate Professor at the Department of Classical Philology and Italian Studies, University of Bologna. He is an expert in document markup and semantic descriptions of bibliographic entities using Semantic Web technologies. In his keynote he will talk about his project [Open Citation](https://opencitations.net/)
   2. Alberto Laender (invited talk) [Homepage](https://homepages.dcc.ufmg.br/~laender/) 
   3. Invited talks by representatives of [Qwant](https://www.qwant.com/), [CrossRef](https://www.crossref.org/), [OpenAlex](https://openalex.org/) or [scite](https://scite.ai/)
+
+
+## Previous related workshops
+
+  - EXCITE Workshop 2017: “[Challenges in Extracting and Managing References](https://excite.informatik.uni-stuttgart.de/misc/workshop2017.html)”: community meeting/workshop during our precursor project EXCITE held in Cologne with approx. 30 on-site and remote experts. Organizers: Philipp Mayr & Steffen Staab
+  - Workshop on [Open Citations 2018](https://workshop-oc.github.io/2018/index.html). First Workshop on Open Citations held in Bologna, Italy with approx. 90 on-site participants. Organizers: Silvio Peroni, David Shotton, Philipp Mayr, Steffen Staab et al.
+  - Workshop on Open Citations And Open Scholarly Metadata 2020 [(Online event)](https://workshop-oc.github.io/). Second Workshop on Workshop On Open Citations And Open Scholarly Metadata held online in September 2020 with >100 on-line participants. Organizers: Silvio Peroni, David Shotton, Philipp Mayr, Steffen Staab et al.
 
 ## Biographies of the Organizers
 
@@ -101,33 +102,3 @@ Steffen Staab is professor for Analytic Computing at University of Stuttgart and
   - Backes, Tobias. 2018. "Effective unsupervised author disambiguation with relative frequencies." In Proceedings of the 16th ACM/IEEE Joint Conference on Digital Libraries (JCDL'18), edited by Jiangping Chen, Marcos André Gonçalves, and Jeff M. Allen, doi: http://dx.doi.org/10.1145/3197026.3197036.
 
 
-
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/exciteproject/ULITE-ws/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
