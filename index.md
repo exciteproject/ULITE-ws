@@ -1,4 +1,4 @@
-# Welcome to ULITE(Understanding LIterature references in academic full TExt)
+# Welcome to ULITE workshop at JCDL 2022
 
 ## Introduction
 
@@ -67,8 +67,6 @@ Some of the expected outcomes of the workshop include:
 ## Keynotes and invited speakers
 
   1. Silvio Peroni (accepted). Silvio Peroni holds a Ph.D. degree in Computer Science and he is an Associate Professor at the Department of Classical Philology and Italian Studies, University of Bologna. He is an expert in document markup and semantic descriptions of bibliographic entities using Semantic Web technologies. In his keynote he will talk about his project [Open Citation](https://opencitations.net/)
-  2. Alberto Laender (invited talk) [Homepage](https://homepages.dcc.ufmg.br/~laender/) 
-  3. Invited talks by representatives of [Qwant](https://www.qwant.com/), [CrossRef](https://www.crossref.org/), [OpenAlex](https://openalex.org/) or [scite](https://scite.ai/)
 
 
 ## Previous related workshops
