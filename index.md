@@ -75,7 +75,7 @@ Some of the expected outcomes of the workshop include:
 
 ## Keynotes and invited speakers
 
-  1. Silvio Peroni (accepted). Silvio Peroni holds a Ph.D. degree in Computer Science and he is an Associate Professor at the Department of Classical Philology and Italian Studies, University of Bologna. He is an expert in document markup and semantic descriptions of bibliographic entities using Semantic Web technologies. In his keynote he will talk about his project [Open Citation](https://opencitations.net/)
+  1. Silvio Peroni (accepted). Silvio Peroni holds a Ph.D. degree in Computer Science and he is an Associate Professor at the Department of Classical Philology and Italian Studies, University of Bologna. He is an expert in document markup and semantic descriptions of bibliographic entities using Semantic Web technologies. In his keynote he will talk about his project [Open Citations](https://opencitations.net/)
 
 
 ## Previous related workshops
