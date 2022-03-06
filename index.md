@@ -8,14 +8,6 @@ With the growing number of publications and academic full texts, curating databa
 
 It is worth mentioning that while in the field of Computer Science and some other domains multiple initiatives and infrastructures for automatic processing of scientific literature exist ([Semantic Scholar](https://www.semanticscholar.org), [Google Scholar](https://scholar.google.com), [AMiner](https://www.aminer.org), [CiteSeerX](https://citeseerx.ist.psu.edu), etc.), for many other fields the situation is drastically different. Social sciences, law, and history (to name a few) scholars often have to rely on fragmented data sources of full-text documents to navigate their fields.
 
-## Peer Review Progress and Workshop Format
-
-Our peer review process will be supported by Easychair. Each submission is assigned to 2 to 3 reviewers, preferably at least one expert in Bibliometrics and one expert in NLP or Information Extraction. The programme committee will consist of peer reviewers from all participating communities. Accepted papers are either long papers (15-minute talks) or short papers (5-minute talks). 
-
-The workshop is planned to last half a day and will include a keynote, invited papers, paper presentations and a closing panel discussion on the needs of the different stakeholders involved in the field of reference understanding. The expected number of participants is approx. 40 people and we plan the event as an on-site event. If the pandemic situation still holds we will switch to an online format (Nunes et al., 2020).
-A typical seminar-style room with a projector for 30-50 delegates would be required. A/V capacities would be desirable to potentially invite speakers to give an online presentation. For the on-site poster session, we would require a small number of poster boards. The workshop would follow the general JCDL format (hybrid, in-person or online).
-
-
 ## Call for papers
 
 ### Motivation
@@ -40,13 +32,30 @@ We invite submissions on the following and related topics (but are not limited t
   - Search, exploration and mining of the reference graph
 
 ### Important dates
+All deadlines are **_11:59 pm UTC -12h ("anywhere on Earth")_**.
 
-  - Deadline for submission: **_May, 15, 2022_**
-  - Notification of acceptance: **_June, 10, 2022_**
-  - Camera ready: **_June, 20, 2022_**
-  - Workshop: June, **_24, 2022_**
-  - All deadlines are **_11:59 pm UTC -12h ("anywhere on Earth")_**.
+  - Deadline for submission: **_May 15, 2022_**
+  - Notification of acceptance: **_June 10, 2022_**
+  - Camera ready: **_June 20, 2022_**
+  - Workshop: **_June 24, 2022_**
 
+### Submission
+Regular papers: All submissions must be written in English, following the [CEUR Proceedings](https://ceurws.wordpress.com/2020/03/31/ceurws-publishes-ceurart-paper-style/) template (10 pages for full papers and 4 pages for short papers exclusive of unlimited pages for references) and should be submitted as PDF files to EasyChair (see below).
+
+Poster & demonstration: We welcome submissions detailing original, early findings, works in progress and industrial applications of knowledge entities extraction ande evaluation for a special poster session, possibly with a 2-minute presentation in the main session. Some research track papers will also be invited to the poster track instead, although there will be no difference in the final proceedings between poster and research track submissions. These papers should follow the same format as the research track papers but can be shorter (2 pages for poster and demo papers).
+
+**_CEURART (incl. LaTeX and Word templates) [https://ceurws.wordpress.com/2020/03/31/ceurws-publishes-ceurart-paper-style/](https://ceurws.wordpress.com/2020/03/31/ceurws-publishes-ceurart-paper-style/)_**
+
+**_Submit via EasyChair: [https://easychair.org/conferences/?conf=ulite2022](https://easychair.org/conferences/?conf=ulite2022)_**
+
+# [Submit a paper](https://easychair.org/conferences/?conf=ulite2022)
+
+## Peer Review Progress and Workshop Format
+
+Our peer review process will be supported by Easychair. Each submission is assigned to 2 to 3 reviewers, preferably at least one expert in Bibliometrics and one expert in NLP or Information Extraction. The programme committee will consist of peer reviewers from all participating communities. Accepted papers are either long papers (15-minute talks) or short papers (5-minute talks). 
+
+The workshop is planned to last half a day and will include a keynote, invited papers, paper presentations and a closing panel discussion on the needs of the different stakeholders involved in the field of reference understanding. The expected number of participants is approx. 40 people and we plan the event as an on-site event. If the pandemic situation still holds we will switch to an online format (Nunes et al., 2020).
+A typical seminar-style room with a projector for 30-50 delegates would be required. A/V capacities would be desirable to potentially invite speakers to give an online presentation. For the on-site poster session, we would require a small number of poster boards. The workshop would follow the general JCDL format (this year: online).
 
 ### Objectives and Target Audience
 
@@ -83,7 +92,7 @@ Some of the expected outcomes of the workshop include:
 
 Tobias Backes is a PhD student at GESIS - Leibniz-Institute for the Social Sciences department Knowledge Technologies for the Social Sciences (KTS). He received his Master’s degree in Language Science and Technology from Saarland University. His interests include entity resolution problems such as author disambiguation, institution resolution and duplicate detection. He is also a software contributor in OUTCITE.
 
-[Philipp Mayr](https://philippmayr.github.io/) is team leader at the GESIS - Leibniz-Institute for the Social Sciences department Knowledge Technologies for the Social Sciences (WTS). He received his PhD in applied informetrics and information retrieval from the Berlin School of Library and Information Science at Humboldt University Berlin. His research group focuses on methods and techniques for interactive information retrieval and data set search. He was the main organizer of the BIR workshops at ECIR 2014-2020 and is the co-PI of the [EXCITE](https://excite.informatik.uni-stuttgart.de) and OUTCITE projects.
+[Philipp Mayr](https://philippmayr.github.io/) is team leader at the GESIS - Leibniz-Institute for the Social Sciences department Knowledge Technologies for the Social Sciences (WTS). He received his PhD in applied informetrics and information retrieval from the Berlin School of Library and Information Science at Humboldt University Berlin. His research group focuses on methods and techniques for interactive information retrieval and data set search. He was the main organizer of the BIR workshops at ECIR 2014-2020 and is the co-PI of the [EXCITE](https://excite.informatik.uni-stuttgart.de) and [OUTCITE](http://bit.ly/OUTCITE-project) projects.
 
 Steffen Staab is professor for Analytic Computing at University of Stuttgart and professor for Web and Computer Science at University of Southampton. Steffen is a fellow of the European Association for Artificial Intelligence. His research interests lie at the intersection of knowledge graphs and machine learning with scientific knowledge graphs being one of the points where these interests meet.
 
