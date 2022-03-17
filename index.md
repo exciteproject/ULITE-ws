@@ -78,6 +78,10 @@ Some of the expected outcomes of the workshop include:
   1. Silvio Peroni (accepted). Silvio Peroni holds a Ph.D. degree in Computer Science and he is an Associate Professor at the Department of Classical Philology and Italian Studies, University of Bologna. He is an expert in document markup and semantic descriptions of bibliographic entities using Semantic Web technologies. In his keynote he will talk about his project [Open Citations](https://opencitations.net/)
 
 
+## Contact
+All questions about submissions should be emailed to ulite2022@easychair.org.
+
+
 ## Previous related workshops
 
   - EXCITE Workshop 2017: “[Challenges in Extracting and Managing References](https://excite.informatik.uni-stuttgart.de/misc/workshop2017.html)”: community meeting/workshop during our precursor project EXCITE held in Cologne with approx. 30 on-site and remote experts. Organizers: Philipp Mayr & Steffen Staab
