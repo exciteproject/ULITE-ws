@@ -1,6 +1,6 @@
 # Welcome to ULITE workshop at JCDL 2022 
 
-![JCDL logo](/docs/assets/jcdl-logo.png)
+![JCDL logo](/docs/assets/logo-jcdl.PNG)
 
 ## Introduction
 
