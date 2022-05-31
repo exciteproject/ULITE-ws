@@ -37,8 +37,8 @@ We invite submissions on the following and related topics (but are not limited t
 All deadlines are **_11:59 pm UTC -12h ("anywhere on Earth")_**.
 
   - Deadline for submission: **_May 2, 2022_**
-  - Notification of acceptance: **_May 30, 2022_**
-  - Camera ready: **_June 10, 2022_**
+  - Notification of acceptance: **_May 31, 2022_**
+  - Camera ready: **_June 17, 2022_**
   - Workshop: **_June 24, 2022_**
 
 ### Submission
