@@ -36,6 +36,8 @@ We invite submissions on the following and related topics (but are not limited t
 ### Program
 ![Program](/docs/assets/tentative_program.png)
 
+Since ULITE is hosted by JCDL, at least one author per paper must register at least for the workshop at: the [JCDL registration page](https://2022.jcdl.org/registration/).
+
 ### Important dates
 All deadlines are **_11:59 pm UTC -12h ("anywhere on Earth")_**.
 
