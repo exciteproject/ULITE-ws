@@ -33,6 +33,9 @@ We invite submissions on the following and related topics (but are not limited t
   - Domain-specific approaches and applications
   - Search, exploration and mining of the reference graph
 
+### Program
+![Program](/docs/assets/tentative_program.png)
+
 ### Important dates
 All deadlines are **_11:59 pm UTC -12h ("anywhere on Earth")_**.
 
