@@ -3,7 +3,7 @@
 ![JCDL logo](/docs/assets/logo-jcdl.PNG)
 
 ## CEUR proceedings published!
-Proceedings of the Workshop on Understanding LIterature references in academic full TExt. Co-located with ACM/IEEE Joint Conference on Digital Libraries 2022 (Cologne, Germany and Online), [https://ceur-ws.org/Vol-3220/](https://ceur-ws.org/Vol-3220/) 
+Proceedings of the Workshop on Understanding LIterature references in academic full TExt. Co-located with ACM/IEEE Joint Conference on Digital Libraries 2022 (Cologne, Germany and Online), [https://ceur-ws.org/Vol-3220/](https://ceur-ws.org/Vol-3220/).
 
 ## Introduction
 
